@@ -1,0 +1,19 @@
+Connected
+Ready
+
+--------response start--------
+Connected to test-sw.local
+Your previous successful login (as manager) was on 2013-12-04 13:22:17
+
+HP-Switch-3500-48# HP-Switch-3500-48# no pageHP-Switch-3500-48# sh verImage stamp:   
+ /ws/swbuildm/rel_richmond_qaoff/code/build/btm(swbuildm_rel_richmond_qaoff_rel_
+richmond)
+                Mar 23 2016 11:45:27
+                K.16.01.0006
+                137
+Boot Image:     Primary
+
+Boot ROM Version:    K.15.30
+HP-Switch-3500-48# 
+
+Closed
